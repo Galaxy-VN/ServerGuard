@@ -1,0 +1,5 @@
+prefix: "&8[&bServerGuard&8] &7» "
+
+kick-block-country: "&7Nước bạn đang ở bị cấm khỏi máy chủ này!"
+no-permission: "&cBạn không có quyền"
+usage: "&a/serverguard reload &7- &fTải lại config của plugin!"

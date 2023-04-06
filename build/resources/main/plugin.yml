@@ -1,0 +1,10 @@
+name: ServerGuard
+version: '1.0.0'
+main: io.github.galaxyvn.serverguard.ServerGuard
+author: GalaxyVN
+api-version: 1.13
+
+commands:
+  serverguard:
+    aliases:
+      - sg
